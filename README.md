@@ -52,7 +52,7 @@ Disables the verification system for the server.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/veldora.git
+   git clone https://github.com/brutiv/veldora.git
    cd veldora
    ```
 
